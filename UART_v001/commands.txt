@@ -1,0 +1,4 @@
+led on
+led off
+buzzer
+temperature
