@@ -1,2 +1,2 @@
 # UART
-Arduino control using PC and UART
+Control Arduino with PC using UART
